@@ -1,19 +1,19 @@
 <div align="center">
 
-# st-AppImage 🐧
+# tint2-AppImage 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/st-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/st-AppImage/releases/latest)
-[![CI Build Status](https://github.com//pkgforge-dev/st-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/st-AppImage/releases/latest)
-[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/st-AppImage)](https://github.com/pkgforge-dev/st-AppImage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/tint2-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/wesbluemarine/tint2-AppImage/releases/latest)
+[![CI Build Status](https://github.com//pkgforge-dev/tint2-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/tint2-AppImage/releases/latest)
+[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/tint2-AppImage)](https://github.com/pkgforge-dev/tint2-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/702499f331aa9c38309e1af99de4021013916297/Papirus/64x64/apps/st.svg" width="128" />
+  <img src="https://gitlab.com/uploads/-/system/project/avatar/246224/tint2.png?width=48" width="128" />
 </p>
 
 
 | Latest Stable Release | Upstream URL |
 | :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/st-AppImage/releases/latest) | [Click here](https://st.suckless.org) |
+| [Click here](https://github.com/wesbluemarine/tint2-AppImage/releases/latest) | [Click here](https://gitlab.com/o9000/tint2) |
 
 </div>
 
